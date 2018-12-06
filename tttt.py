@@ -1,1 +1,1 @@
-print  ("wold")
+print  ("world")
